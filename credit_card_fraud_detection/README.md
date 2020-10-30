@@ -1,8 +1,8 @@
-Credit Card Fraud Detection
+# Credit_Card_Fraud_Detection
 
-* Credit Card Fraud Detection dataset hosted on Kaggle
+## Credit Card Fraud Detection dataset hosted on Kaggle
 
-* Goal: to detect fraudulent transactions from the total transactions
+### Goal: to detect fraudulent transactions from the total transactions
 
 1) Understanding the data
 
